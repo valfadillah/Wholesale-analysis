@@ -1,4 +1,4 @@
-![Retail Store] (https://unsplash.com/photos/photo-of-store-GMGdhtYeROY)
+![Retail Store](https://github.com/valfadillah/Wholesale-analysis/blob/main/alexander-fae-GMGdhtYeROY-unsplash.jpg)
 # Wholesale analysis
 
 ## Resume
