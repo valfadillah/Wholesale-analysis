@@ -1,3 +1,4 @@
+![Retail Store] (https://unsplash.com/photos/photo-of-store-GMGdhtYeROY)
 # Wholesale analysis
 
 ## Resume
