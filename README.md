@@ -41,6 +41,10 @@ Find customers who made purchases more than three times in the last three months
 Classify these loyal customers by their highest achieved status (Silver, Gold, or Platinum) to support strategic loyalty and retention programs.
 
 
+## Results and Discussion 
+The results and detailed discussion are provided in a separate file titled **`Wholesale_&_Retail_orders_analysis.ipynb`** for easier review and step-by-step exploration.
+
+
 ## Summarised
 This project delivers a comprehensive analysis of retail transaction data using Python, focusing on identifying business opportunities through data-driven insights. 
 It reveals that golf products generate the highest profit percentage, followed by racket and swim sports, with winter and team sports showing lower profitability. 
